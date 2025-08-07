@@ -4,7 +4,7 @@ This repository serves as a structured archive of the Operating Systems (OS) cou
 
 It contains my submitted assignments, projects, and reports based on original materials provided via the official course repository:
 
-
+---
  Original Course Repository (GitHub)
 
   Each subdirectory contains:
@@ -17,7 +17,7 @@ It contains my submitted assignments, projects, and reports based on original ma
   
   Submission report (PDF/HWP format)
 
-
+---
  Coursework Overview
   Category	Title	Description
   HW0	Git Usage & Group Setup	Team branch creation and Git operation practice
@@ -28,7 +28,7 @@ It contains my submitted assignments, projects, and reports based on original ma
   Project 3	Ext2 File System Analysis	(Incomplete) File system metadata parsing, structure mapping
   Report	Large Number Arithmetic	Algorithm design for high-precision integer calculations
 
-
+---
 Directory Structure
 
   os-coursework-2024/
@@ -40,7 +40,7 @@ Directory Structure
   ├── os_proj3/         # (Partial) ext2 file system analysis
   └── report_largeint/  # Standalone number calculation report
 
-
+---
 Learning Outcomes
   Through these assignments and projects, I explored core OS concepts in practice, including:
   
@@ -60,7 +60,7 @@ Learning Outcomes
   
   Each directory contains a self-contained explanation of what was implemented, what challenges were faced, and what was learned.
 
-
+---
 Notes
   All source files and reports were authored individually unless otherwise specified.
   
@@ -70,6 +70,7 @@ Notes
   
   https://github.com/mobile-os-dku-cis-mse
 
+---
 License & Use
   The original coursework materials are under the ownership of the course instructor and department.
   My implementations are provided here for archival and educational purposes only.
