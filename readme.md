@@ -1,4 +1,4 @@
-*Operating Systems Coursework Archive (2024, 2nd Year)*
+*Operating Systems Coursework*
 
 This repository serves as a structured archive of the Operating Systems (OS) coursework carried out in the 2nd year, 2nd semester (Fall 2024) at Dankook University.
 
