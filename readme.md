@@ -7,7 +7,7 @@ This repository serves as a structured archive of the **Operating Systems (OS)**
 ---
 
 ## Coursework Overview
-
+ 
 | Category | Title | Description |
 | :--- | :--- | :--- |
 | HW0 | Git Usage & Group Setup | Practice with team branch creation and Git operations. |
